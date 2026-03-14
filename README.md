@@ -125,8 +125,17 @@ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/shreyashpatil02/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:shreyashpatil1jgd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://linkedin.com/in/shreyashpatil02/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:shreyashpatil1jgd@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://shreyashpatil2002.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 </p>
 
 ---
