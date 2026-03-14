@@ -14,6 +14,9 @@
 - ☁️ Exploring **Cloud Computing**
 - 🚀 Goal: Work at a **top product-based company**
 
+<a href="https://shreyashpatil2002.github.io">
+<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
 ---
 
 ## 👀 Profile Views
@@ -133,9 +136,6 @@ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://shreyashpatil2002.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
 </p>
 
 ---
