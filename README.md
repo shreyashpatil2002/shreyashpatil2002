@@ -86,35 +86,49 @@
 
 # 🚀 Featured Projects
 
-## 🍽️ DineHub – Restaurant Reservation System
-A full-stack restaurant reservation platform that allows users to discover restaurants, book tables, and manage reservations online.
+## 📦 IMRAS – Inventory Management & Reorder Automation System
 
-🔹 Features:
-- Browse restaurants and check availability
-- Table reservation with date, time, and party size
-- Reservation management dashboard
-- Automated booking confirmations
+IMRAS is a system designed to manage inventory across **multiple warehouses** while automating procurement and stock management processes.
 
-🔹 Tech Stack:
-HTML • CSS • JavaScript • Firebase / Backend API
+🔹 Key Features:
+- **Multi-warehouse management** for tracking inventory across different locations
+- **Purchase Requisition System** to request inventory procurement
+- **Purchase Order Management** for supplier purchasing
+- **Sales Order Processing** for outgoing product transactions
+- **Warehouse Transfer** for moving inventory between warehouses
+- **Physical Inventory Tracking** to maintain accurate stock records
+- **Aisle–Bin Location Mapping** for structured warehouse storage
+- **Analytics Dashboard** for inventory insights and monitoring
 
-🔗 Repository: https://github.com/shreyashpatil2002/DineHub
+🔹 Purpose:
+Helps organizations manage complex warehouse operations efficiently while reducing manual inventory management and improving stock visibility.
+
+🔗 Repository: https://github.com/shreyashpatil2002/IMRAS
 
 ---
 
-## 🏥 IMRAS – Internship Management & Recruitment Automation System
-A system designed to streamline the internship application and management process for students and administrators.
+## 🍽️ DineHub – QR-Based Smart Restaurant Ordering System
 
-🔹 Features:
-- Online internship application submission
-- Admin dashboard to manage applications
-- Application review and status tracking
-- Digital management of internship records
+DineHub is a digital restaurant ordering system that replaces traditional pen-and-paper ordering using QR codes placed on each table.
 
-🔹 Tech Stack:
-MERN Stack (MongoDB, Express.js, React.js, Node.js)
+🔹 How It Works:
+- Each table has a unique **QR code**
+- Customers scan the QR code to access the **digital menu**
+- Customers place orders directly from their phone
+- Order details are sent to the **chef/kitchen**
+- The **cashier receives billing details automatically**
 
-🔗 Repository: https://github.com/shreyashpatil2002/IMRAS
+🔹 Key Features:
+- QR-based table identification
+- Digital menu and food ordering
+- Automatic bill generation
+- Order notifications to kitchen and cashier
+- Reduces waiting time and manual order taking
+
+🔹 Purpose:
+Improves restaurant efficiency by **automating the ordering process**, reducing service time, and eliminating manual order recording.
+
+🔗 Repository: https://github.com/shreyashpatil2002/DineHub
 
 ---
 
