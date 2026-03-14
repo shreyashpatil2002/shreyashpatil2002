@@ -1,92 +1,133 @@
-# 👋 Hi, I'm Shreyash Patil
+<h1 align="center">Hi 👋, I'm Shreyash Patil</h1>
 
-💻 Computer Science Student | 🚀 Aspiring Software Engineer | 🌱 Lifelong Learner  
-
-Welcome to my GitHub profile! I'm passionate about building scalable applications, solving complex problems, and continuously learning new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;DSA+Learner;Cloud+Computing+Enthusiast;Open+Source+Learner" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Computer Science Student
-- 💡 Interested in **Software Development, Cloud Computing & System Design**
-- 🧠 Currently improving my **Data Structures & Algorithms**
-- 📚 Learning **Cloud Computing and Backend Development**
-- 🎯 Goal: Become a **Software Engineer at a top product-based company**
+- 💻 Aspiring **Software Engineer**
+- 🧠 Currently learning **Data Structures & Algorithms**
+- ☁️ Exploring **Cloud Computing**
+- 🚀 Goal: Work at a **top product-based company**
 
 ---
 
-## 🛠️ Tech Stack
+## 👀 Profile Views
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shreyashpatil2002&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+</p>
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
----
+### ⚙️ Tools
 
-## 📊 GitHub Stats
-
-![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyashpatil2002&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashpatil2002&layout=compact&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,vscode" />
+</p>
 
 ---
 
-## 🔥 GitHub Streak
+# 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shreyashpatil2002&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=shreyashpatil2002&show_icons=true&theme=tokyonight" />
 
----
-
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyashpatil2002&theme=tokyo-night)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyashpatil2002&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🔥 GitHub Streak
 
-### 🚀 Project 1
-Short description of your project.
-
-### 🚀 Project 2
-Short description of your project.
-
-### 🚀 Project 3
-Short description of your project.
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=shreyashpatil2002&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 Achievements
+# 📈 Contribution Graph
 
-- Built multiple development projects
-- Strong interest in **DSA & system design**
-- Actively learning modern development technologies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyashpatil2002&theme=tokyo-night"/>
 
 ---
 
-## 🤝 Connect With Me
+# 🧠 LeetCode Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](YOUR_PORTFOLIO_LINK)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/PatilShreyash?theme=dark&font=Nunito" />
+</p>
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
+# 🚀 Featured Projects
+
+## 🍽️ DineHub – Restaurant Reservation System
+A full-stack restaurant reservation platform that allows users to discover restaurants, book tables, and manage reservations online.
+
+🔹 Features:
+- Browse restaurants and check availability
+- Table reservation with date, time, and party size
+- Reservation management dashboard
+- Automated booking confirmations
+
+🔹 Tech Stack:
+HTML • CSS • JavaScript • Firebase / Backend API
+
+🔗 Repository: https://github.com/shreyashpatil2002/DineHub
+
+---
+
+## 🏥 IMRAS – Internship Management & Recruitment Automation System
+A system designed to streamline the internship application and management process for students and administrators.
+
+🔹 Features:
+- Online internship application submission
+- Admin dashboard to manage applications
+- Application review and status tracking
+- Digital management of internship records
+
+🔹 Tech Stack:
+MERN Stack (MongoDB, Express.js, React.js, Node.js)
+
+🔗 Repository: https://github.com/shreyashpatil2002/IMRAS
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shreyashpatil2002&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/shreyashpatil02/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:shreyashpatil1jgd@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+⭐ From [Shreyash Patil](https://github.com/shreyashpatil2002)
 ```
-
